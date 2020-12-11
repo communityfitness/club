@@ -1,0 +1,9 @@
+# basic options
+title: Community Fitness Club
+author: Community Fitness Club
+email: info@communityfitness.club
+description: Training for Life
+
+# Build settings
+markdown: kramdown
+theme: minima
