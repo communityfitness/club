@@ -1,3 +1,3 @@
 # COMMUNITY FITNESS CLUB
-## Training for Life
+### Training for Life
 https://www.communityfitness.club/
