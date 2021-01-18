@@ -7,3 +7,8 @@ description: Training for Life
 # Build settings
 markdown: kramdown
 theme: minima
+
+# Collections
+collections:
+  movements:
+    output: true
