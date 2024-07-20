@@ -4,26 +4,8 @@ title: About
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+## WELCOME TO THE COMMUNITY FITNESS CLUB!
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+Gyms can be scary, intimidating places. It's hard to know what to do, how to do it, and where to start. That is where the Community Fitness Club comes in. Every weekday I will provide a Workout of the Day (WOD) along with scaling options and links to tutorial videos. You simply complete the WOD to the best of your abilities and record your results.
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+The Community Fitness Club is not about chasing perfection. Instead, it is about pushing your limits in the gym so that you feel stronger, more confident, and more capable in your everyday life. I hope that together we can build a community that supports and encourages each other as we pursue our individual fitness goals and train for life.
