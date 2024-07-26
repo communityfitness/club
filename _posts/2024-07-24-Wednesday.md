@@ -32,7 +32,7 @@ Beginners can modify the rep scheme and scale the movements. A beginner’s vers
 
 **Scaled 1:**
 
-**For time: **
+**For time:**
 
 **8 rounds for time:**
 
@@ -48,7 +48,7 @@ Perhaps something between the experienced version and the beginner version of th
 
 **8 rounds for time:**
 
-**5 jumping pull-ups or banded pull-ups **
+**5 jumping pull-ups or banded pull-ups**
 
 **20 double unders or 60 single unders**
 
