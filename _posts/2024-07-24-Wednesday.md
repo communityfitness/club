@@ -14,7 +14,7 @@ If you are an experienced athlete and feel capable, please perform the following
 
 **Experienced:**
 
-**For time: **
+**For time:**
 
 **8 rounds for time:**
 
