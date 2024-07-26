@@ -6,18 +6,24 @@ excerpt_separator: <!--more-->
 ---
 **Wednesday - 7/24/24**
 
-[Warm-up](https://www.communityfitness.club/post/basic-full-body-warm-up)
+[Warm-up](https://communityfitnessclub.wixsite.com/website/post/basic-full-body-warm-up)
 
 For today’s WOD (“Workout of the Day”), we will perform 8 rounds of 5 pull-ups, 40 double unders, and 1 wall walk. The rounds are meant to go by quickly, so pick scaling options that you are good at and feel confident performing. It’s okay to reduce the number of double unders per round, substitute single unders, or modify the wall walks. Make today’s workout quick and fun!
 
 If you are an experienced athlete and feel capable, please perform the following WOD:
 
 **Experienced:**
+
 **For time: **
+
 **8 rounds for time:**
+
 **5 pull-ups**
+
 **40 double unders**
+
 **1 wall walk**
+
 <!--more-->
 
 Beginners can modify the rep scheme and scale the movements. A beginner’s version of today’s workout could look like this:
@@ -54,18 +60,18 @@ Your score is the total amount of time it takes you to complete today’s workou
 
 Not sure what some of the movements are? Click on the following links for more information:
 
-[Pull-ups](https://www.communityfitness.club/post/pull-ups) 
+[Pull-ups](https://communityfitnessclub.wixsite.com/website/post/pull-ups) 
 
-[Ring rows](https://www.communityfitness.club/post/ring-rows) 
+[Ring rows](https://communityfitnessclub.wixsite.com/website/post/ring-rows) 
 
-[Double unders](https://www.communityfitness.club/post/double-unders)
+[Double unders](https://communityfitnessclub.wixsite.com/website/post/double-unders)
 
 [Single unders](https://www.youtube.com/watch?v=hCuXYrTOMxI)
 
-[Wall walks](https://www.communityfitness.club/post/wall-walks) 
+[Wall walks](https://communityfitnessclub.wixsite.com/website/post/wall-walks) 
 
-[Inchworms](https://www.communityfitness.club/post/inchworms) 
+[Inchworms](https://communityfitnessclub.wixsite.com/website/post/inchworms) 
 
-[Inchworm push-ups](https://www.communityfitness.club/post/inchworm-push-ups)
+[Inchworm push-ups](https://communityfitnessclub.wixsite.com/website/post/inchworm-push-ups)
 
-[How should I time my workouts?](https://www.communityfitness.club/post/how-should-i-time-my-workouts)
+[How should I time my workouts?](https://communityfitnessclub.wixsite.com/website/post/how-should-i-time-my-workouts)
