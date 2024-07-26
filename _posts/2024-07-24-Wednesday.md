@@ -13,10 +13,15 @@ For today’s WOD (“Workout of the Day”), we will perform 8 rounds of 5 pull
 If you are an experienced athlete and feel capable, please perform the following WOD:
 
 **Experienced:**
+
 **For time:**
+
 **8 rounds for time:**
+
 **5 pull-ups**
+
 **40 double unders**
+
 **1 wall walk**
 
 <!--more-->
