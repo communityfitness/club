@@ -12,11 +12,11 @@ Today’s workout consists of four 3-minute AMRAPs (“As Many Reps As Possible�
 
 To time today’s WOD using the SmartWOD timer:
 
-(1) Press “TABATA”.
+1. Press “TABATA”.
 
-(2) Choose 4 rounds of 3 minutes of work and 2 minutes of rest.
+2. Choose 4 rounds of 3 minutes of work and 2 minutes of rest.
 
-(3) Press “START TIMER”.
+3. Press “START TIMER”.
 
 If you are an experienced athlete and feel capable, please perform the following WOD:
 
