@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wednesday - 01/08/25
-date: 2024-01-05 00:00:03
+date: 2025-01-05 00:00:03
 categories: [CFC,WOD]
 excerpt_separator: <!--more-->
 ---
@@ -52,7 +52,7 @@ Perhaps something between the experienced version and the beginner version of th
 
 **Minute 4: 30 seconds of hollow body hold (broken as needed)**
 
-Your score is the total number of air bike calories you accumulate in today’s workout. 
+Your score is the total number of air bike calories you accumulate in today’s workout.
 
 Not sure what some of the movements are? Click on the following links for more information:
 
@@ -60,10 +60,10 @@ Not sure what some of the movements are? Click on the following links for more i
 
 [Up and down plank](https://www.youtube.com/watch?v=L4oFJRDAU4Q)
 
-[Plank](https://communityfitnessclub.wixsite.com/website/post/plank) 
+[Plank](https://communityfitnessclub.wixsite.com/website/post/plank)
 
 [Mountain climbers](https://www.youtube.com/watch?v=nmwgirgXLYM)
 
-[Hollow body hold](https://www.youtube.com/watch?v=4xRpGgttca8) 
+[Hollow body hold](https://www.youtube.com/watch?v=4xRpGgttca8)
 
 [How should I time my workouts?](https://communityfitnessclub.wixsite.com/website/post/how-should-i-time-my-workouts)
